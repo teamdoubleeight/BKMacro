@@ -1,0 +1,61 @@
+C:\Users\RedDragon\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\RedDragon\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\RedDragon\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\RedDragon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\RedDragon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\RedDragon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\RedDragon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\RedDragon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\RedDragon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\RedDragon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\RedDragon\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MoveForm.resources
+C:\Users\RedDragon\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\RedDragon\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\RedDragon\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\RedDragon\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\RedDragon\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\RedDragon\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MoveForm.resources
+C:\Users\RedDragon\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\RedDragon\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\RedDragon\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\RedDragon\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\RedDragon\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\dldld\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\자동 욕기계 By Ziku.exe.config
+C:\Users\dldld\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\자동 욕기계 By Ziku.exe
+C:\Users\dldld\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\자동 욕기계 By Ziku.pdb
+C:\Users\dldld\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\dldld\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\dldld\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MoveForm.resources
+C:\Users\dldld\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dldld\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\dldld\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dldld\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\자동 욕기계 By Ziku.exe
+C:\Users\dldld\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\자동 욕기계 By Ziku.pdb
+C:\Users\user\Downloads\Ziku\자동 욕기계 V3 SRC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Ziku\자동 욕기계 V3 SRC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\Ziku\자동 욕기계 V3 SRC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Downloads\Ziku\자동 욕기계 V3 SRC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Downloads\Ziku\자동 욕기계 V3 SRC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Ziku\자동 욕기계 V3 SRC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Ziku\자동 욕기계 V3 SRC\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\user\Downloads\Ziku\자동 욕기계 V3 SRC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Downloads\Ziku\자동 욕기계 V3 SRC\WindowsFormsApp1\bin\Debug\FlatUI.dll
+C:\Users\user\Downloads\Ziku\자동 욕기계 V3 SRC\WindowsFormsApp1\bin\Debug\버거킹 매크로.exe.config
+C:\Users\user\Downloads\Ziku\자동 욕기계 V3 SRC\WindowsFormsApp1\bin\Debug\버거킹 매크로.exe
+C:\Users\user\Downloads\Ziku\자동 욕기계 V3 SRC\WindowsFormsApp1\bin\Debug\버거킹 매크로.pdb
+C:\Users\user\Downloads\Ziku\자동 욕기계 V3 SRC\WindowsFormsApp1\obj\Debug\버거킹 매크로.exe
+C:\Users\user\Downloads\Ziku\자동 욕기계 V3 SRC\WindowsFormsApp1\obj\Debug\버거킹 매크로.pdb
+C:\Users\user\Documents\Desktop\BK\WindowsFormsApp1\bin\Debug\버거킹 매크로.exe.config
+C:\Users\user\Documents\Desktop\BK\WindowsFormsApp1\bin\Debug\버거킹 매크로.exe
+C:\Users\user\Documents\Desktop\BK\WindowsFormsApp1\bin\Debug\버거킹 매크로.pdb
+C:\Users\user\Documents\Desktop\BK\WindowsFormsApp1\bin\Debug\FlatUI.dll
+C:\Users\user\Documents\Desktop\BK\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\user\Documents\Desktop\BK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Desktop\BK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Desktop\BK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Documents\Desktop\BK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\Desktop\BK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\Desktop\BK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Desktop\BK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Documents\Desktop\BK\WindowsFormsApp1\obj\Debug\버거킹 매크로.exe
+C:\Users\user\Documents\Desktop\BK\WindowsFormsApp1\obj\Debug\버거킹 매크로.pdb
